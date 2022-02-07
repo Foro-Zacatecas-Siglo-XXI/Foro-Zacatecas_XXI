@@ -24,6 +24,6 @@
 
 - name: Programa sindical
   link: /#
-  dopdown: 
+  dropdown: 
     - name: Escuela sindical
       link:

@@ -3,11 +3,12 @@ title:Módulo 1
 layout: page
 toc: true
 toc_title: Contenidos
+{% include toc.html html=content %}
 ---
 
-# Introducción
+## Introducción
 
-## vamos 
+### vamos 
 
- ## a ver
+ ### a ver
 

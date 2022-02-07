@@ -1,7 +1,7 @@
 ---
 title: Módulo 1
 layout: page
-toc: true
+menubar_toc: true
 toc_title: Contenidos
 ---
 {% include toc.html html=content %}
@@ -10,5 +10,5 @@ toc_title: Contenidos
 
 ### vamos 
 
- ### a ver
+### a ver
 

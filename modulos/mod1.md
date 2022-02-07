@@ -1,5 +1,5 @@
 ---
-title:Módulo 1
+title: Módulo 1
 layout: page
 toc: true
 toc_title: Contenidos

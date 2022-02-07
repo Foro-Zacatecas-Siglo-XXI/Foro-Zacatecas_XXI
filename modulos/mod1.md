@@ -2,7 +2,6 @@
 title:Módulo 1
 layout: page
 toc: true
-menubar_toc: true
 toc_title: Contenidos
 ---
 
@@ -10,5 +9,5 @@ toc_title: Contenidos
 
 ## vamos 
 
- a ver
+ ## a ver
 

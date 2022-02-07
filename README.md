@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 hero_image: /imagenes/cropped-Logo.jpg
 hero_darken: true
 ---

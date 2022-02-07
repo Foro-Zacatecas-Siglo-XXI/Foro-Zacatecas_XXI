@@ -1,7 +1,4 @@
----
-title: Foro Zacatecas XXI
-layout: page
----
+# Foro Zacatecas XXI
 
 
 Foro Zacatecas Siglo XXI

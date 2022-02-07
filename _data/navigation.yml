@@ -9,3 +9,21 @@
       link:     
     - name: Cuarto
       link:
+      
+      
+- name: Acerca de nosotros
+  link: /#
+  dropdown: 
+    - name: Objetivo-Misión-Visión
+      link: 
+    - name: Fundadores
+      link:
+    - name: Consejos
+      link:
+    
+
+- name: Programa sindical
+  link: /#
+  dopdown: 
+    - name: Escuela sindical
+      link:

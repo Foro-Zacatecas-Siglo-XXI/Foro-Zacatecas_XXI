@@ -16,6 +16,7 @@ permalink: pretty
 theme_color: '#333333'
 #fixed_navbar: top
 footer_menu: footer
+{% include toc.html html=content %}
 
 plugins:
   - jekyll-sitemap

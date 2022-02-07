@@ -10,7 +10,7 @@ description: >
 baseurl: "/Foro-Zacatecas_XXI"
 url: "https://foro-zacatecas-siglo-xxi.github.io"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /imagenes/logo.jfif
 #gh_sponsor: juliowaissman
 #hide_share_buttons: true
 theme_color: '#333333'

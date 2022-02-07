@@ -1,9 +1,6 @@
 ---
 title: Objetivo general
 layout: page
-show_sidebar: false
-hide_hero: true
-hide_footer: true
 ---
 
 El Foro Zacatecas Siglo XXI tiene como objetivo propiciar la formación política de sus integrantes, a través de la discusión y el análisis socio-político del entorno local, nacional e internacional. 
